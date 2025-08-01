@@ -1,0 +1,2 @@
+# Analisis-de-datos-con-prediccion-comercial-en-una-empresa-de-Videojuegos
+En este proyecto analicé datos de una tienda online que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Identifiqué patrones que determinen si un juego tiene éxito o no. 
